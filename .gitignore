@@ -1,0 +1,5 @@
+# Ignorar los archivos de pohotoshop
+*.psd
+
+# Ignorar la carpeta top_secret
+docs/top_secret/
